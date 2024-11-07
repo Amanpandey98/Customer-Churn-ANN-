@@ -1,0 +1,9 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+scikeras
+tensorboard
+matplotlib
+streamlit
+pip>=24.3.1
